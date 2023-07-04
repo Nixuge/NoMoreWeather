@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.nixuge.nomoreweather.mixins",
+  "refmap": "refmap.nomoreweather.json",
+  "mixins": [],
+  "client": [
+    "world.WorldMixin"
+  ],
+  "server": []
+}
